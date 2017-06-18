@@ -506,6 +506,7 @@
 			baseConfigurationReference = 40FE5BDDFCE872D9813D92DC /* Pods-bw.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Heng Chen (NT59S575NJ)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				DEVELOPMENT_TEAM = NT59S575NJ;
 				INFOPLIST_FILE = bw/Info.plist;
